@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://aman-goel1.github.io/sitemap.xml
