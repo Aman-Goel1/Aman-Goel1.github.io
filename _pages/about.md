@@ -14,7 +14,7 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hi! I am in my final semester of B.Tech CSE (Honors) program at IIIT, Hyderabad. I am interested in scalable physics augmented machine learning for computer vision, graphics and machine learning. 
+Hi! I have graduated with B.Tech CSE (Honors) program at IIIT, Hyderabad. I am interested in scalable physics augmented machine learning for computer vision, graphics and machine learning. 
 
 I am currently a visting scholar at the University of Glasgow, advised by Prof. Edmond S.L. Ho.
 
