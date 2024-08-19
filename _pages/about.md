@@ -22,7 +22,7 @@ I was a visting scholar at the University of Glasgow, advised by Prof. Edmond S.
 
 Prior to this I was a visiting scholar at University of Oxford and Northumbria University, advised by Prof. Edmond S.L. Ho and in collaboration with Post doc. Qianhui Men.
 
-I spent my undergraduate honors research with Prof. Avinash Sharma at The Centre for Visual Information Technology (CVIT), a premier computer vision and graphics research lab in India.
+I spent my undergraduate honors research at The Centre for Visual Information Technology (CVIT), a premier computer vision and graphics research lab in India.
 
 I am always looking for new research opportunity, please contact me if you are looking for an academic collaboration.
 
