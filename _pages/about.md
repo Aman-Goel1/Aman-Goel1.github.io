@@ -14,11 +14,13 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hi! I have graduated with B.Tech CSE (Honors) program at IIIT, Hyderabad. I am interested in scalable physics augmented machine learning for computer vision, graphics and machine learning. 
 
-I am currently a visting scholar at the University of Glasgow, advised by Prof. Edmond S.L. Ho.
 
-Prior to this I was a visiting scholar at Northumbria University, advised by Prof. Edmond S.L. Ho.
+Hi! I'm a current Master of Science in Computer Vision at Carnegie Mellon University. I have graduated with B.Tech CSE (Honors) program at IIIT, Hyderabad. I am interested in scalable physics augmented machine learning for computer vision, graphics and machine learning. 
+
+I was a visting scholar at the University of Glasgow, advised by Prof. Edmond S.L. Ho.
+
+Prior to this I was a visiting scholar at University of Oxford and Northumbria University, advised by Prof. Edmond S.L. Ho and in collaboration with Post doc. Qianhui Men.
 
 I spent my undergraduate honors research with Prof. Avinash Sharma at The Centre for Visual Information Technology (CVIT), a premier computer vision and graphics research lab in India.
 
