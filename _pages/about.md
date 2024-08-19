@@ -26,4 +26,6 @@ I spent my undergraduate honors research at The Centre for Visual Information Te
 
 I am always looking for new research opportunity, please contact me if you are looking for an academic collaboration.
 
+This page may not always be updated to include my latest/all of my work. Please refer to my google scholar for the complete list of publications.
+
 
