@@ -20,7 +20,7 @@ Hi! I'm a current Master of Science in Computer Vision at Carnegie Mellon Univer
 
 I was a visting scholar at the University of Glasgow, advised by Prof. Edmond S.L. Ho.
 
-Prior to this I was a visiting scholar at University of Oxford and Northumbria University, advised by Prof. Edmond S.L. Ho and in collaboration with Post doc. Qianhui Men.
+Prior to this I was a visiting scholar atNorthumbria University, advised by Prof. Edmond S.L. Ho and in collaboration with Post doc. Qianhui Men.
 
 I spent my undergraduate honors research at The Centre for Visual Information Technology (CVIT), a premier computer vision and graphics research lab in India.
 
